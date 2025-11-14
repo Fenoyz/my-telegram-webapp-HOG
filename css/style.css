@@ -1,7 +1,7 @@
 :root {
     --primary-bg: #0f172a;
     --card-bg: #101626;
-    --accent-blue: #8518d2;
+    --accent-blue: #9a4ed1;
     --accent-purple: #8b5cf6;
     --accent-green: #10b981;
     --accent-red: #ef4444;
@@ -741,7 +741,7 @@ body {
 .light-theme {
     --primary-bg: #e6e9ed;
     --card-bg: #f8f9fb;
-    --accent-blue: #8518d2;
+    --accent-blue: #9a4ed1;
     --accent-purple: #00836e;
     --accent-green: #0d9f73;
     --accent-red: #e04343;
@@ -948,7 +948,7 @@ body {
     --primary-bg: #e6e9ed;
     --card-bg: #f8f9fb;
     --accent-blue: #2563eb;
-    --accent-purple: #7c3aed;
+    --accent-purple: #9a4ed1;
     --accent-green: #0d9f73;
     --accent-red: #e04343;
     --accent-amber: #d97706;
@@ -1458,7 +1458,7 @@ body {
 
 /* Обновляем переменные светлой темы для кнопок */
 .light-theme {
-    --accent-blue: #8518d2;
+    --accent-blue: #9a4ed1;
     --accent-purple: #8b5cf6;
 }
 
